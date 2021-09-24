@@ -1318,9 +1318,9 @@ body {
   }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 4266px) {
   .container {
-    max-width: 376px;
+    max-width: 426px;
   }
   .header__infot .header__info {
     -webkit-box-orient: vertical;
